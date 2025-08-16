@@ -1,0 +1,204 @@
+{
+  "categories": [
+    {
+      "name": "Giyim",
+      "products": [
+        {
+          "id": "1",
+          "name": "Erkek Tişört",
+          "price": 149.99,
+          "stock": 50,
+          "description": "Pamuklu, rahat erkek tişört. Yazlık kullanım için idealdir.",
+          "image_url": "https://images.pexels.com/photos/1002642/pexels-photo-1002642.jpeg",
+          "discount": 10.0
+        },
+        {
+          "id": "2",
+          "name": "Kadın Bluz",
+          "price": 179.99,
+          "stock": 40,
+          "description": "Şık ve hafif kadın bluz. Günlük kullanım için uygundur.",
+          "image_url": "https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg",
+          "discount": 15.0
+        },
+        {
+          "id": "3",
+          "name": "Erkek Gömlek",
+          "price": 249.99,
+          "stock": 30,
+          "description": "Resmi ve günlük kullanıma uygun erkek gömlek.",
+          "image_url": "https://images.pexels.com/photos/428338/pexels-photo-428338.jpeg",
+          "discount": 5.0
+        },
+        {
+          "id": "4",
+          "name": "Kadın Elbise",
+          "price": 349.99,
+          "stock": 20,
+          "description": "Özel günler için şık kadın elbisesi.",
+          "image_url": "https://images.pexels.com/photos/428338/pexels-photo-428338.jpeg",
+          "discount": 20.0
+        },
+        {
+          "id": "5",
+          "name": "Erkek Şort",
+          "price": 129.99,
+          "stock": 60,
+          "description": "Rahat yazlık erkek şort, hafif kumaş.",
+          "image_url": "https://images.pexels.com/photos/428339/pexels-photo-428339.jpeg",
+          "discount": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Ayakkabı",
+      "products": [
+        {
+          "id": "6",
+          "name": "Kadın Spor Ayakkabı",
+          "price": 299.99,
+          "stock": 30,
+          "description": "Hafif ve nefes alabilen kadın spor ayakkabı.",
+          "image_url": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg",
+          "discount": 10.0
+        },
+        {
+          "id": "7",
+          "name": "Erkek Sneaker",
+          "price": 349.99,
+          "stock": 20,
+          "description": "Günlük kullanım için rahat erkek sneaker.",
+          "image_url": "https://images.pexels.com/photos/2529147/pexels-photo-2529147.jpeg",
+          "discount": 0.0
+        },
+        {
+          "id": "8",
+          "name": "Kadın Topuklu Ayakkabı",
+          "price": 399.99,
+          "stock": 15,
+          "description": "Özel günler için şık topuklu ayakkabı.",
+          "image_url": "https://images.pexels.com/photos/2529150/pexels-photo-2529150.jpeg",
+          "discount": 25.0
+        },
+        {
+          "id": "9",
+          "name": "Erkek Sandalet",
+          "price": 199.99,
+          "stock": 25,
+          "description": "Rahat yazlık erkek sandalet.",
+          "image_url": "https://images.pexels.com/photos/2529151/pexels-photo-2529151.jpeg",
+          "discount": 5.0
+        },
+        {
+          "id": "10",
+          "name": "Kadın Spor Sneaker",
+          "price": 299.99,
+          "stock": 30,
+          "description": "Günlük spor aktiviteleri için kadın sneaker.",
+          "image_url": "https://images.pexels.com/photos/2529152/pexels-photo-2529152.jpeg",
+          "discount": 10.0
+        }
+      ]
+    },
+    {
+      "name": "Elektronik",
+      "products": [
+        {
+          "id": "11",
+          "name": "Bluetooth Kulaklık",
+          "price": 199.99,
+          "stock": 100,
+          "description": "Kablosuz Bluetooth kulaklık. Uzun pil ömrü ve kaliteli ses deneyimi.",
+          "image_url": "https://images.pexels.com/photos/3394657/pexels-photo-3394657.jpeg",
+          "discount": 10.0
+        },
+        {
+          "id": "12",
+          "name": "Akıllı Saat",
+          "price": 499.99,
+          "stock": 60,
+          "description": "Kalp ritmi ve adım sayar özellikli akıllı saat.",
+          "image_url": "https://images.pexels.com/photos/277394/pexels-photo-277394.jpeg",
+          "discount": 15.0
+        },
+        {
+          "id": "13",
+          "name": "Taşınabilir Hoparlör",
+          "price": 299.99,
+          "stock": 80,
+          "description": "Bluetooth ile bağlanan taşınabilir hoparlör.",
+          "image_url": "https://images.pexels.com/photos/159637/speaker-sound-audio-music-159637.jpeg",
+          "discount": 5.0
+        },
+        {
+          "id": "14",
+          "name": "Laptop",
+          "price": 5999.99,
+          "stock": 15,
+          "description": "İş ve oyun için yüksek performanslı laptop.",
+          "image_url": "https://images.pexels.com/photos/18105/pexels-photo.jpg",
+          "discount": 0.0
+        },
+        {
+          "id": "15",
+          "name": "Tablet",
+          "price": 2499.99,
+          "stock": 20,
+          "description": "E-kitap ve multimedya için ideal tablet.",
+          "image_url": "https://images.pexels.com/photos/360622/pexels-photo-360622.jpeg",
+          "discount": 10.0
+        }
+      ]
+    },
+    {
+      "name": "Aksesuar",
+      "products": [
+        {
+          "id": "16",
+          "name": "Laptop Çantası",
+          "price": 129.99,
+          "stock": 25,
+          "description": "Su geçirmez laptop çantası. 15.6 inch laptoplar için uygun.",
+          "image_url": "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg",
+          "discount": 5.0
+        },
+        {
+          "id": "17",
+          "name": "Cüzdan",
+          "price": 79.99,
+          "stock": 70,
+          "description": "Deri cüzdan. Şık ve dayanıklı tasarım.",
+          "image_url": "https://images.pexels.com/photos/1666066/pexels-photo-1666066.jpeg",
+          "discount": 0.0
+        },
+        {
+          "id": "18",
+          "name": "Güneş Gözlüğü",
+          "price": 199.99,
+          "stock": 50,
+          "description": "UV korumalı şık güneş gözlüğü.",
+          "image_url": "https://images.pexels.com/photos/46710/pexels-photo-46710.jpeg",
+          "discount": 20.0
+        },
+        {
+          "id": "19",
+          "name": "Kol Saati",
+          "price": 399.99,
+          "stock": 40,
+          "description": "Şık tasarım kol saati.",
+          "image_url": "https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg",
+          "discount": 15.0
+        },
+        {
+          "id": "20",
+          "name": "Sırt Çantası",
+          "price": 249.99,
+          "stock": 35,
+          "description": "Günlük kullanım için dayanıklı sırt çantası.",
+          "image_url": "https://images.pexels.com/photos/374132/pexels-photo-374132.jpeg",
+          "discount": 0.0
+        }
+      ]
+    }
+  ]
+}
